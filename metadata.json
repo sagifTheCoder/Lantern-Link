@@ -1,0 +1,6 @@
+{
+  "name": "LANTERN LINK – Hành trình của những chiếc đèn",
+  "description": "Game hyper-casual vật lý 2D điều khiển hướng gió đưa đèn lồng Hội An và đèn Cheongsachorong Hanok vượt chướng ngại vật về với lễ hội.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
